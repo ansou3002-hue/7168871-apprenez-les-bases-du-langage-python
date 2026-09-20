@@ -1,4 +1,8 @@
-# Instructions  
+nom="ansou"
+age=20
+print(f"je m'appelle {nom} et j'ai {age} ans ")
+age=30
+print(f"je m'appelle {nom} et j'{age} ans maintenant")
 
 1. Créez une variable nommée `nom` et attribuez-y votre **nom**.
 2. Créez une variable nommée `age` et attribuez-y votre **âge**.
